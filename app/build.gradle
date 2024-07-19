@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.puzzle'
+    namespace 'uz.azureem.puzzle'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.puzzle"
+        applicationId "uz.azureem.puzzle"
         minSdk 21
         targetSdk 34
         versionCode 1

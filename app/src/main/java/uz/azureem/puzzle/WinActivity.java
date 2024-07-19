@@ -1,7 +1,6 @@
-package com.example.puzzle;
+package uz.azureem.puzzle;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.AppCompatTextView;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;

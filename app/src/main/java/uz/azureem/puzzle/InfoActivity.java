@@ -1,4 +1,4 @@
-package com.example.puzzle;
+package uz.azureem.puzzle;
 
 import androidx.appcompat.app.AppCompatActivity;
 

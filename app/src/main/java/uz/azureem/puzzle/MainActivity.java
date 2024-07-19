@@ -1,4 +1,4 @@
-package com.example.puzzle;
+package uz.azureem.puzzle;
 
 import static java.util.Collections.shuffle;
 
@@ -7,7 +7,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
-import android.graphics.Color;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.SystemClock;

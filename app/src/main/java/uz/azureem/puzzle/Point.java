@@ -1,4 +1,4 @@
-package com.example.puzzle;
+package uz.azureem.puzzle;
 
 public class Point {
   private int x;
